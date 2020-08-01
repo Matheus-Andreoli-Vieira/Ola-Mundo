@@ -1,7 +1,0 @@
-num = str(input("Digite um número: ")).strip()
-print("unidade: " , num[:1])
-print("dezena: " , num[1:2])
-print("centena: " , num[2:3])
-print("milhar: " , num[3:4])
-frase = str(input("Digite algo: ")).split()
-print(frase[0])
