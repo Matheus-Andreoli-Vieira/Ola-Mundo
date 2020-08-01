@@ -1,0 +1,10 @@
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.csprojAssemblyReference.cache
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+F:\Ativiades_Quarentena\Técnico\Semana4\TPV\Triangulo\Triangulo\obj\Debug\Triangulo.FRM_Main.resources

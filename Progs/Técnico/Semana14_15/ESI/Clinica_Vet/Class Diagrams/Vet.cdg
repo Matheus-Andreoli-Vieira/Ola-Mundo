@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Vet">
+  <ClassDiagramComponents>
+    <Class name="Cliente" package="" visibility="public" xPosition="7.0" yPosition="37.0">
+      <Fields>
+        <Field name="nome" type="String" visibility="private"/>
+        <Field name="CPF" type="Int" visibility="private"/>
+        <Field name="celular" type="Int" visibility="private"/>
+        <Field name="sexo" type="String" visibility="private"/>
+        <Field name="dataNasc" type="Int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Animal" package="" visibility="public" xPosition="7.0" yPosition="298.0">
+      <Fields>
+        <Field name="dono" type="Object" visibility="private"/>
+        <Field name="nome" type="String" visibility="private"/>
+        <Field name="especie" type="String" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Veterinario" package="" visibility="public" xPosition="381.0" yPosition="298.0">
+      <Fields>
+        <Field name="nome" type="String" visibility="private"/>
+        <Field name="animal" type="Object" visibility="private"/>
+        <Field name="dataNasc" type="Int" visibility="private"/>
+        <Field name="sexo" type="String" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Secretaria" package="" visibility="public" xPosition="381.0" yPosition="37.0">
+      <Fields>
+        <Field name="nome" type="String" visibility="private"/>
+        <Field name="sexo" type="String" visibility="private"/>
+        <Field name="dataNasc" type="Int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <HasRelation name="Dono" source="Cliente" target="Animal" type="Aggregation" sourceCardinality="0..1" targetCardinality="0..*" collectionType="List"/>
+    <HasRelation name="Cuidar" source="Veterinario" target="Animal" type="Default" sourceCardinality="0..1" targetCardinality="0..*" collectionType="List"/>
+  </ClassDiagramRelations>
+</ClassDiagram>
